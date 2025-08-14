@@ -695,11 +695,11 @@
 			]
 		},
 		"Raindrop.sol": {
-			"keccak256": "0x1efba946364151772e4283d38ac6787e8f31ae73a664ae73356d46e46d8784f7",
+			"keccak256": "0x0e370ea06f45793cb00977dbdefd831e0a6b2c75bdcd9efb6a8cd4d1379a0443",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://6660d8e7ddb6cb71656640a6bab426646ee45fe9667bc794a5a7c9a89497288c",
-				"dweb:/ipfs/QmRXRa5dfPA5pJK9KoBSpmeMaMXAtobv2UQDKDexPhJMEK"
+				"bzz-raw://5fb1e77c295dfe4e489db2ef0ebd2335f52af6b88fe2ddf13d8888ba381d79ef",
+				"dweb:/ipfs/QmQFo5bvxnocbsqVZtsJeVvfieDMP7pRSLep9AsyrZ5bb1"
 			]
 		}
 	},

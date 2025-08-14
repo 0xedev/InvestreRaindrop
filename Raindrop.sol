@@ -19,7 +19,7 @@ contract RaindropEscrow is ReentrancyGuard, Ownable {
     using SafeERC20 for IERC20;
 
     // Maximum participants to prevent gas limit issues
-    uint256 public constant MAX_PARTICIPANTS = 100000;
+    uint256 public constant MAX_PARTICIPANTS = 1000000;
     
     // Minimum amount per participant (in wei/smallest unit)
     uint256 public constant MIN_AMOUNT_PER_PARTICIPANT = 1; // Adjust based on token
